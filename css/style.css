@@ -131,6 +131,7 @@
     top:0;
     background-color:#ffffff;
     border-radius:6px;
+    border-top-left-radius: unset;
     border:1px solid black;
     display:inline-block;
     cursor:pointer;
